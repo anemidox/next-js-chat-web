@@ -1,1 +1,1 @@
-# next-js-chat-web
+# next-js-chat-web //app
